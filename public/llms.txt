@@ -1,0 +1,61 @@
+# מחשבון פורטפוליו — Generative Engine Optimization Map
+
+> A נדל"ן והשקעות business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-09fe5370.zappy5.app
+מחשבון עלות ניהול נכסים בארהב מקצועי המציג למשקיעים את העלות האמיתית של ניהול עצמי. התחל לחשב עכשיו!
+
+### המחשבון
+https://-09fe5370.zappy5.app/calculator
+השתמש במחשבון עלות ניהול נכסים בארהב שלנו כדי לגלות כמה באמת עולה לנהל נכס השכרה בארצות הברית. חישוב חינם ומיידי!
+
+### השירותים שלנו
+https://-09fe5370.zappy5.app/services
+גלה את השירותים המקצועיים שלנו למשקיעי נדלן ישראלים בארהב - מחישוב עלויות ועד ייעוץ מקיף לניהול נכסים. התחל היום!
+
+### אודות
+https://-09fe5370.zappy5.app/about
+הכירו את הצוות מאחורי מחשבון עלות ניהול נכסים בארהב המוביל למשקיעים ישראליים. המשימה שלנו: לעזור לכם לקבל החלטות מושכלות.
+
+### צור קשר
+https://-09fe5370.zappy5.app/contact
+צור קשר עם מומחי מחשבון עלות ניהול נכסים בארהב. קבל ייעוץ אישי למשקיעי נדלן ישראליים. שיחה ראשונה ללא עלות!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-09fe5370.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-09fe5370.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-09fe5370.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מחשבון פורטפוליו
+מחשבון פורטפוליו is a business in the נדל"ן והשקעות industry.
+
+## Target Audience
+משקיעי נדל"ן המנהלים נכסים בעצמם בארה"ב
+
+## Industry
+נדל"ן והשקעות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-09fe5370.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-09fe5370.zappy5.app/robots.txt
